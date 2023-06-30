@@ -1,0 +1,3 @@
+SaveResult:
+  type: local_dir
+  prefix: results
