@@ -2,7 +2,7 @@
 
 ## Incremental Machine Learning on Tabular Data(Tabular Incrml)
 
-Tabular Incrml can do fully automate machine learning tasks and perform continuous learning on real-time data, enabling you to easily achieve powerful predictive performance in real production environments. Only one command line to obtain a high-precision model, and then one command to run a model as a RESTful service. It's also a feamework for various AutuFE, AutoML, DataEnhancement, IncrementalLearning and other algorithms. Now we are opening dfs-based autofe algorithm, inspired by this project(https://github.com/SpongebBob/tabular_automl_NNI), and we will open source more algorithms and features in the near future. If you are interesting in full-feature project, you're welcomed to contant us(Jiangsu YiSiChangTian Digital Intellgence Techonology Co.Ltd, ysct_official@126.com)
+Tabular Incrml can do fully automate machine learning tasks and perform continuous learning on real-time data, enabling you to easily achieve powerful predictive performance in real production environments. Only one command line to obtain a high-precision model, and then one command to run a model as a RESTful service. It's also a framework for various AutoFE, AutoML, DataEnhancement, IncrementalLearning and other algorithms. Now we are opening dfs-based autofe algorithm, inspired by this project(https://github.com/SpongebBob/tabular_automl_NNI), and we will open source more algorithms and features in the near future. If you are interesting in full-feature project, you're welcomed to contant us(Jiangsu YiSiChangTian Digital Intellgence Techonology Co.Ltd, ysct_official@126.com)
 
 ## Example
 
